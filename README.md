@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Git hub
 
 This is another change
+
+This is a new line for branch push to Github
